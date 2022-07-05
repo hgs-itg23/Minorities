@@ -55,7 +55,7 @@ Nun bewegen sie sich mit Hilfe ihrer Steuerung den Spieler um mit ihm ein tor zu
 Wer bis Ende des Spiels mehr Punkte erzielt hat das Spiel gewonnen.
 
 ### 5.b 
-![Bildschirmfoto 2022-07-05 um 22 12 47](https://user-images.githubusercontent.com/79520837/177408900-cd289525-3df5-405a-8e9a-93eb67d9eb58.png)
+
 
 
 
