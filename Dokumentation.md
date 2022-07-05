@@ -24,6 +24,27 @@ Mankaran Singh zuständig für Programmieren und Dokumentation
 
 - Klicken sie auf run Main.Java  
 
+### 2.b
+## SprintA
+# 02.04.2022 - 16.04.2022
+- Ein bewegbare Figur auf Jpanel(Ziel nicht erreicht)
+23 Juni (Ziel erreicht)
+## SprintB
+# 23.06.2022-25.06.2022
+- Zwei Bewegliche Spieler auf verschiedenen Position, die unabhängig voneinander bewegbar sind. (Ziel erreicht)
+## SprintC
+# 25.06.2022-28.06.2022
+- Borders vom Spiel und Spielfeld und Spieler farbig gestalten.(Ziel erreicht)
+## SprintD
+# 28.06.2022-01.07.2022
+- Programmierung inkl. das abprallen und verhaltensweise des Balles.(Ziel erreicht)
+## SprintE 
+# 01.07.2022-03.07.2022
+- Kollusion detection verstehen und implementieren.(Ziel teilweise erreicht)
+## SprintF
+# 03.07.2022-04.07.2022
+- Torerkennung, Reset und Spielstand überlegen und implementieren.(Ziel erreicht)
+## ABGABE
 ### 4.Bedienungsanleitung  
 Entscheiden sie sich für einen Spieler dieser ist abhängig von seiner Steuerung Spieler Blue = „A,W,S,D“ Spieler Red = „LEFT,RIGHT,UP,DOWN“ .
 
