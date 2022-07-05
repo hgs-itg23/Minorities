@@ -11,7 +11,7 @@ Spieler stehen sich in einem Fußball artigen Spielfeld gegenüber in mitten des
 ### 2.a 
 Moritz Geiser zuständig für Programmieren und Dokumentation
 Mankaran Singh zuständig für Programmieren und Dokumentation
-###3. Instalations Anleitung  
+### 3. Instalations Anleitung  
 - Sie besuchen die Seite“ GitHub.com“  
 
 - Melden sich mit ihren Zugangsdaten ein , falls vorhanden. 
