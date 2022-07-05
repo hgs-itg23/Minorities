@@ -56,6 +56,7 @@ Wer bis Ende des Spiels mehr Punkte erzielt hat das Spiel gewonnen.
 
 ### 5.b 
 
+![Bildschirmfoto 2022-07-05 um 22 12 47](https://user-images.githubusercontent.com/79520837/177409190-bc4832de-59a5-4386-81b1-6e96c35c95dd.png)
 
 
 
