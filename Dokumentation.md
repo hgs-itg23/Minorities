@@ -54,7 +54,12 @@ Nun bewegen sie sich mit Hilfe ihrer Steuerung den Spieler um mit ihm ein tor zu
 
 Wer bis Ende des Spiels mehr Punkte erzielt hat das Spiel gewonnen.
 
-### 5.Schlusswort & Erfahrungen
+### 5.b 
+
+
+
+
+### Schlusswort & Erfahrungen
 Durch das programieren des Spiels haben wir sehr viel neues dazugelernt sowie vorhandenes verbessert
 Die fehlersuche war mühsam , wenn jdoch der fehler gefunden wurde war man sehr glücklich und es erschien einem so logich das man sich fragte wie konnte ich diesen fehler machen.
 Das programm ist noch lange nicht fertig jedoch ist man schon stolz zu sehen was man auf die beine gestellt hat.
